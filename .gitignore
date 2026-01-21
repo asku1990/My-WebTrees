@@ -1,5 +1,8 @@
 .phpunit.cache/
 
+# macOS
+.DS_Store
+
 /modules_v4/
 
 /node_modules/
